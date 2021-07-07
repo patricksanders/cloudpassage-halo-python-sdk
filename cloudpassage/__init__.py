@@ -47,6 +47,7 @@ from cloudpassage.container_process import ContainerProcess  # noqa: F401
 from cloudpassage.image_issue import ImageIssue  # noqa: F401
 from cloudpassage.image_registry import ImageRegistry  # noqa: F401
 from cloudpassage.image_repo import ImageRepo  # noqa: F401
+from cloudpassage.user import User  # noqa: F401
 
 
 minimum = {"2": "2.7.10", "3": "3.6.5"}
